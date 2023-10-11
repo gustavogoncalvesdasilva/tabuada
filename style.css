@@ -22,6 +22,8 @@ header, footer{
 
 section{
     background-color: white;
+    width: 350px;
+    height: 400px;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.413);
